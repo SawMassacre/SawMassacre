@@ -1,5 +1,4 @@
-█▀▀ █░█ █▀█ █▀█ █▀▀ █▄░█ ▀█▀ █░░ █▄█   █▄▄ █▀▀ ▀█ █▀▄ ▄▀█ █▀█ ▀
-█▄▄ █▄█ █▀▄ █▀▄ ██▄ █░▀█ ░█░ █▄▄ ░█░   █▄█ ██▄ █▄ █▄▀ █▀█ █▀▄ ░╯
+### 👋≧◉ᴥ◉≦ На данный момент являюсь простым студентом ДВФУ, туплю на фронте, скрипткидю
 
 <!--
 **SawMassacre/SawMassacre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
